@@ -1,0 +1,15 @@
+Do you learn to touch-type?
+Do you learn Vim?
+Do you use the Git cli?
+Do you learn React?
+Do you learn Angular?
+Do you learn Vue?
+Do you learn Svelte?
+Did you learn Backbone?
+Do you prefer Mac?
+Do you prefer Windows?
+Do you prefer Linux?
+Did you get a degree in CS or IT?
+Did you get a bachelor's degree from college?
+Did you attend a code bootcamp?
+Did you learn from online tutorials?
